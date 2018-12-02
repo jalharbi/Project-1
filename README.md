@@ -2,7 +2,7 @@
 Create a Tic Tac Game 
 ### Let's Play the Game 
 
-[Click Here](file:///Users/appleapple/code/wdi/projects/Project-1/project1.html)
+[Click Here](https://jalharbi.github.io/Project-1/project1.html)
 
 ### How to Play 
  Tic-Tac-Toe is a game that has two players, player X and player O who, the first player start his turn by filling the spaces in a 3×3 grid. The player who fills the spaces with three of their marks in a horizontal, vertical, or diagonal row wins the game.
